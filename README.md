@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @sharathkumar674
-- 👀 I’m interested in developing web application ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on creating the websites which is responsive through angular...
-- 📫 How to reach me through mail sharathkumarin1999@gmail.com through number 6361142595...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm sharath kumar I N 👋
 
-<!---
-sharathkumar674/sharathkumar674 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate angular developer with a love for open-source projects and building useful applications. 
+
+## 🚀 Skills:
+- Programming Languages: java, JavaScript
+- Web Development: HTML, CSS, React, angular, bootstrap, tailwind
+- Tools: Git, VSCode 
+
+## 💼 Projects:
+
+
+## 📚 Currently Learning:
+- Advanced React 
+- python 
+
+## 🌱 Let's Connect:
+- [LinkedIn]www.linkedin.com/in/sharath-kumar-i-n-188b73254
+
+
+## 📧 Contact Me:
+- Email: sharathkumarin1999@gmail.com
